@@ -22,16 +22,6 @@ It features a premium Glassmorphism UI, keyboard support, smooth animations, and
 
 ---
 
-## 📸 Screenshot
-
-> Add a screenshot named **calculator.png** inside the repository and uncomment the line below.
-
-```md
-![Calculator Screenshot](calculator.png)
-```
-
----
-
 ## ✨ Features
 
 - Modern Premium Glassmorphism UI
