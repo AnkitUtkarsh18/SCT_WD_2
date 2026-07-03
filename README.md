@@ -2,7 +2,7 @@ Live Demo: https://ankitutkarsh18.github.io/SCT_WD_2/
 
 GitHub Repository: https://github.com/AnkitUtkarsh18/SCT_WD_2
 
-# 🧮 Nebula Calc – Premium Glassmorphic Calculator
+# 🧮  Calculator
 
 A modern, responsive, and professional Calculator Web Application built using **HTML5, CSS3, and Vanilla JavaScript**.
 
@@ -123,4 +123,4 @@ https://github.com/AnkitUtkarsh18
 
 ---
 
-⭐ If you like this project, don't forget to Star this repository.
+
