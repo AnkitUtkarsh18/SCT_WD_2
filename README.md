@@ -60,6 +60,9 @@ It features a premium Glassmorphism UI, keyboard support, smooth animations, and
 - GitHub Pages
 
 ---
+## 📸 Screenshot
+
+![Calculator Screenshot](calculator.png)
 
 ## 📁 Folder Structure
 
