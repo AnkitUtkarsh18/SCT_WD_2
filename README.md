@@ -61,7 +61,7 @@ It features a premium Glassmorphism UI, keyboard support, smooth animations, and
 
 ---
 ## 📸 Screenshot
-![Calculator Screenshot](calculator.png)
+![Calculator Screenshot](calculator.png.png)
 
 
 ## 📁 Folder Structure
